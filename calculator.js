@@ -1,4 +1,4 @@
-// Complete pricing data from CSV file
+<script>// Complete pricing data from CSV file
 const pricingData = {
   "📝 Academic Writing & Assignments": {
     Biography: {
@@ -2278,3 +2278,5 @@ document
 
 // Initialize subcategories on page load
 updateSubcategories();
+
+</script>
